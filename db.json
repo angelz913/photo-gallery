@@ -1,0 +1,24 @@
+{
+  "photos": [
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "link": "https://wallpapercave.com/wp/ac1rvFA.jpg",
+      "tags": [
+        "snow",
+        "forest",
+        "winter"
+      ],
+      "id": 1
+    },
+    {
+      "title": "mountain",
+      "description": "mountain",
+      "link": "https://wallpapercave.com/wp/wp2532971.jpg",
+      "tags": [
+        "mountain"
+      ],
+      "id": 2
+    }
+  ]
+}
