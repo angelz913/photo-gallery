@@ -7,7 +7,7 @@ const Photo = ({ photo, onHoverImage, onToggleDetails, onClickDelete }) => {
             <div className='photoContainer'>
                 <img src={link} alt={title} 
                     onMouseOver={e => onHoverImage(e)} 
-                    onMouseOut = {e => onHoverImage(e)}/>
+                    onMouseOut={e => onHoverImage(e)}/>
                 <button className='toggleDetailsBtn' 
                     onClick={e => onToggleDetails(e.target)} 
                     onMouseOver={e => e.target.style.opacity = '80%'}>
